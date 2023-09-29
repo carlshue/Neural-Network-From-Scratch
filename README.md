@@ -1,3 +1,3 @@
 ## Neural Network from scratch
 
-For practial researching purposes. 
+For practical researching purposes. 
